@@ -44,7 +44,7 @@
 .icon-2mu:before {
   content: "\e001";
 }
-.icon-base-link:before {
+.icon-link:before {
   content: "\e002";
 }
 .icon-click:before {
@@ -56,7 +56,7 @@
 .icon-criminal:before {
   content: "\e005";
 }
-.icon-hass-bioroid:before {
+.icon-haas-bioroid:before {
   content: "\e006";
 }
 .icon-mu:before {
@@ -76,9 +76,6 @@
 }
 .icon-anarch:before {
   content: "\e00e";
-}
-.icon-weyland-consortium:before {
-  content: "\e00f";
 }
 .icon-weyland-consortium:before {
   content: "\e00f";
