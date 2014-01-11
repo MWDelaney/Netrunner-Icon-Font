@@ -86,3 +86,33 @@
 .icon-nbn:before {
   content: "\e010";
 }
+.icon-agenda:before {
+  content: "\e009";
+}
+.icon-asset:before {
+  content: "\e011";
+}
+.icon-action:before {
+  content: "\e013";
+}
+.icon-hardware:before {
+  content: "\e014";
+}
+.icon-resource:before {
+  content: "\e015";
+}
+.icon-shaper:before {
+  content: "\e00b";
+}
+.icon-resource:before {
+  content: "\e015";
+}
+.icon-ice:before {
+  content: "\e016";
+}
+.icon-rez:before {
+  content: "\e017";
+}
+.icon-upgrade:before {
+  content: "\e018";
+}
