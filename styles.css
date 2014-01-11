@@ -62,9 +62,6 @@
 .icon-mu:before {
   content: "\e008";
 }
-.icon-nbn:before {
-  content: "\e009";
-}
 .icon-shaper:before {
   content: "\e00b";
 }
@@ -85,4 +82,7 @@
 }
 .icon-jinteki:before {
   content: "\e007";
+}
+.icon-nbn:before {
+  content: "\e010";
 }
