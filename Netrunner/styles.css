@@ -38,66 +38,63 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-1mu:before {
+.icon-criminal:before {
   content: "\e000";
 }
-.icon-2mu:before {
+.icon-haas-bioroid:before {
   content: "\e001";
 }
-.icon-link:before {
+.icon-shaper:before {
   content: "\e002";
 }
-.icon-click:before {
+.icon-anarch:before {
   content: "\e003";
 }
-.icon-credit:before {
+.icon-weyland-consortium:before {
   content: "\e004";
 }
-.icon-criminal:before {
+.icon-jinteki:before {
   content: "\e005";
 }
-.icon-haas-bioroid:before {
+.icon-nbn:before {
   content: "\e006";
 }
-.icon-mu:before {
-  content: "\e008";
+.icon-agenda:before {
+  content: "\e007";
 }
 .icon-shaper:before {
+  content: "\e008";
+}
+.icon-rez:before {
+  content: "\e009";
+}
+.icon-mu:before {
+  content: "\e00a";
+}
+.icon-click:before {
   content: "\e00b";
 }
-.icon-subroutine:before {
+.icon-link:before {
   content: "\e00c";
 }
-.icon-trash:before {
+.icon-credit:before {
   content: "\e00d";
 }
-.icon-anarch:before {
+.icon-subroutine:before {
   content: "\e00e";
 }
-.icon-weyland-consortium:before {
+.icon-trash:before {
   content: "\e00f";
 }
 .icon-recurring-credit:before {
-  content: "\e00a";
-}
-.icon-jinteki:before {
-  content: "\e007";
-}
-.icon-nbn:before {
   content: "\e010";
 }
-.icon-agenda:before {
-  content: "\e009";
+.icon-1mu:before {
+  content: "\e011";
 }
-.icon-shaper:before {
-  content: "\e00b";
-}
-.icon-rez:before {
-  content: "\e017";
-}
-.icon-3mu:before {
+.icon-2mu:before {
   content: "\e012";
 }
-.icon-4mu:before {
-  content: "\e019";
+.icon-3mu:before {
+  content: "\e013";
 }

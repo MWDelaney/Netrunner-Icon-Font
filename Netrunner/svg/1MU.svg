@@ -1,10 +1,15 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg viewBox="0 -200 1330 1000">
-  <g transform="matrix(1 0 0 -1 0 800)">
-   <path fill="currentColor"
-d="M1258 820h72v-71v-108v-71v-108v-71v-108v-71v-111v-71h-72h-199h-71v20h-42v-16v-71h-71h-596h-29l-21 20l-159 159l-20 21v29v359v276v71h71h754h71v-71v-29h42v22h71h199zM1258 638v111h-199v-22h-184v22v78h-754v-276v-359l158 -158h596v67v20h184v-20h199v111h-199
-v-22h-184v22v68v20h184v-20h199v111h-199v-22h-184v22v68v20h184v-20h199v111h-199v-22h-184v22v68v21h184v-21h199zM382 644v-56h89v-337h88v419z" />
-  </g>
-
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1440px" height="1227px" viewBox="0 0 1440 1227" enable-background="new 0 0 1440 1227" xml:space="preserve">
+<g transform="matrix(1 0 0 -1 0 800)">
+	<path fill="#010101" d="M1309.331,568.61h74.76v-73.722v-112.14v-73.723v-112.14v-73.723V11.022v-73.721v-115.256v-73.723h-74.76
+		H1102.7h-73.721v20.768H985.37v-16.614v-73.722h-73.724H292.799h-30.112l-21.805,20.768L75.786-135.383L55.02-113.578v30.112
+		v372.763v286.582v73.722h73.722h782.905h73.724v-73.722v-30.112h43.609v22.844h73.721H1309.331z M1309.331,379.633v115.255H1102.7
+		v-22.843H911.646v22.843v80.991H128.741V289.297V-83.466l164.058-164.058h618.848v69.569v20.766H1102.7v-20.766h206.631v115.256
+		H1102.7v-22.845H911.646v22.845V7.907v20.768H1102.7V7.907h206.631v115.256H1102.7V100.32H911.646v22.843v70.607v20.768H1102.7
+		v-20.768h206.631v115.255H1102.7v-22.843H911.646v22.843v70.607v21.805H1102.7v-21.805H1309.331z M399.748,385.863v-58.146h92.413
+		V-22.203h91.371v435.063L399.748,385.863z"/>
+</g>
 </svg>
