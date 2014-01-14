@@ -408,14 +408,15 @@
 			},
 			"metrics": {
 				"emSize": 1024,
-				"baseline": 6.25,
+				"baseline": 15,
 				"whitespace": 50
 			},
 			"resetPoint": 58880,
 			"autoHost": false,
 			"embed": false,
 			"useClassSelector": true,
-			"classSelector": ".icon"
+			"classSelector": ".icon",
+			"showMetrics": true
 		},
 		"imagePref": {
 			"color": 0,
@@ -430,6 +431,7 @@
 		"showGrid": true,
 		"quickUsageToken": {
 			"Untitled Project 2": "OWM4MDExNGVjZTg5N2QwMDVmYWRiOGNhNzg1MGEzMzMjMiMxMzg5NzEzODg0IyMj"
-		}
+		},
+		"showLiga": false
 	}
 }
