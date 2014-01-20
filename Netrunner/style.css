@@ -23,9 +23,6 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.icon-credit:before {
-	content: "\e600";
-}
 .icon-haas-bioroid:before {
 	content: "\e602";
 }
@@ -41,7 +38,7 @@
 .icon-trash:before {
 	content: "\e606";
 }
-.icon-wayland-consortium:before {
+.icon-weyland-consortium:before {
 	content: "\e607";
 }
 .icon-recurring-credit:before {
@@ -79,4 +76,7 @@
 }
 .icon-link:before {
 	content: "\e601";
+}
+.icon-credit:before {
+	content: "\e600";
 }
