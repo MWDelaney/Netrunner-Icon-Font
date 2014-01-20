@@ -16,9 +16,30 @@
 			"properties": {
 				"id": 13,
 				"order": 1,
-				"prevSize": 24,
+				"prevSize": 96,
 				"code": 58880,
 				"name": "credit",
+				"ligatures": ""
+			}
+		},
+		{
+			"icon": {
+				"paths": [
+					"M567.555 748.617h-172.701v-59.082h113.619v-436.297h-436.297v436.297h156.794v59.082h-215.876v-554.459h554.459zM840.24 996.303h-554.459v-554.459h170.428v56.809h-111.346v438.569h436.297v-438.569h-156.794v-56.809h215.876z"
+				],
+				"defaultCode": 57356,
+				"grid": 24,
+				"width": 853.333333333333,
+				"tags": [
+					"link"
+				]
+			},
+			"properties": {
+				"id": 12,
+				"order": 2,
+				"prevSize": 96,
+				"code": 58881,
+				"name": "link",
 				"ligatures": ""
 			}
 		},
@@ -35,8 +56,8 @@
 			},
 			"properties": {
 				"id": 1,
-				"order": 2,
-				"prevSize": 24,
+				"order": 3,
+				"prevSize": 32,
 				"code": 58882,
 				"name": "haas-bioroid",
 				"ligatures": ""
@@ -55,7 +76,7 @@
 			},
 			"properties": {
 				"id": 2,
-				"order": 3,
+				"order": 4,
 				"prevSize": 32,
 				"code": 58883,
 				"name": "shaper",
@@ -76,7 +97,7 @@
 			},
 			"properties": {
 				"id": 14,
-				"order": 4,
+				"order": 5,
 				"prevSize": 32,
 				"code": 58884,
 				"name": "subroutine",
@@ -96,7 +117,7 @@
 			},
 			"properties": {
 				"id": 3,
-				"order": 5,
+				"order": 6,
 				"prevSize": 32,
 				"code": 58885,
 				"name": "anarch",
@@ -117,7 +138,7 @@
 			},
 			"properties": {
 				"id": 15,
-				"order": 6,
+				"order": 7,
 				"prevSize": 32,
 				"code": 58886,
 				"name": "trash",
@@ -137,7 +158,7 @@
 			},
 			"properties": {
 				"id": 4,
-				"order": 7,
+				"order": 8,
 				"prevSize": 32,
 				"code": 58887,
 				"name": "wayland-consortium",
@@ -158,7 +179,7 @@
 			},
 			"properties": {
 				"id": 16,
-				"order": 8,
+				"order": 9,
 				"prevSize": 32,
 				"code": 58888,
 				"name": "recurring-credit",
@@ -179,7 +200,7 @@
 			},
 			"properties": {
 				"id": 5,
-				"order": 9,
+				"order": 10,
 				"prevSize": 32,
 				"code": 58889,
 				"name": "jinteki",
@@ -200,7 +221,7 @@
 			},
 			"properties": {
 				"id": 17,
-				"order": 10,
+				"order": 11,
 				"prevSize": 32,
 				"code": 58890,
 				"name": "1mu",
@@ -220,7 +241,7 @@
 			},
 			"properties": {
 				"id": 6,
-				"order": 11,
+				"order": 12,
 				"prevSize": 32,
 				"code": 58891,
 				"name": "nbn",
@@ -241,7 +262,7 @@
 			},
 			"properties": {
 				"id": 18,
-				"order": 12,
+				"order": 13,
 				"prevSize": 32,
 				"code": 58892,
 				"name": "2mu",
@@ -261,7 +282,7 @@
 			},
 			"properties": {
 				"id": 7,
-				"order": 13,
+				"order": 14,
 				"prevSize": 32,
 				"code": 58893,
 				"name": "asset",
@@ -282,7 +303,7 @@
 			},
 			"properties": {
 				"id": 19,
-				"order": 14,
+				"order": 15,
 				"prevSize": 32,
 				"code": 58894,
 				"name": "3mu",
@@ -302,7 +323,7 @@
 			},
 			"properties": {
 				"id": 9,
-				"order": 15,
+				"order": 16,
 				"prevSize": 32,
 				"code": 58895,
 				"name": "rez",
@@ -323,7 +344,7 @@
 			},
 			"properties": {
 				"id": 10,
-				"order": 16,
+				"order": 17,
 				"prevSize": 32,
 				"code": 58896,
 				"name": "mu",
@@ -344,7 +365,7 @@
 			},
 			"properties": {
 				"id": 11,
-				"order": 17,
+				"order": 18,
 				"prevSize": 32,
 				"code": 58897,
 				"name": "click",
@@ -365,38 +386,17 @@
 			},
 			"properties": {
 				"id": 0,
-				"order": 18,
+				"order": 19,
 				"prevSize": 96,
 				"code": 58898,
 				"name": "criminal",
-				"ligatures": ""
-			}
-		},
-		{
-			"icon": {
-				"paths": [
-					"M567.555 705.951h-172.701v-59.082h113.619v-436.297h-436.297v436.297h156.794v59.082h-215.876v-554.459h554.459zM840.24 953.637h-554.459v-554.459h170.428v56.809h-111.346v438.569h436.297v-438.569h-156.794v-56.809h215.876z"
-				],
-				"defaultCode": 57356,
-				"grid": 24,
-				"width": 853.333333333333,
-				"tags": [
-					"link"
-				]
-			},
-			"properties": {
-				"id": 12,
-				"order": 19,
-				"prevSize": 24,
-				"code": 58881,
-				"name": "link",
 				"ligatures": ""
 			}
 		}
 	],
 	"height": 1024,
 	"metadata": {
-		"name": "Netrunner"
+		"name": "netrunner"
 	},
 	"preferences": {
 		"showGlyphs": true,
@@ -404,10 +404,10 @@
 		"fontPref": {
 			"prefix": "icon-",
 			"metadata": {
-				"fontFamily": "Netrunner"
+				"fontFamily": "netrunner"
 			},
 			"metrics": {
-				"emSize": 2048,
+				"emSize": 1024,
 				"baseline": 15,
 				"whitespace": 50
 			},
@@ -416,8 +416,7 @@
 			"embed": false,
 			"useClassSelector": true,
 			"classSelector": ".icon",
-			"showMetrics": true,
-			"showMetadata": false
+			"showMetrics": true
 		},
 		"imagePref": {
 			"color": 0,

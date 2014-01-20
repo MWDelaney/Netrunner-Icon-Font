@@ -1,16 +1,16 @@
 @font-face {
-	font-family: 'Netrunner';
-	src:url('fonts/Netrunner.eot');
-	src:url('fonts/Netrunner.eot?#iefix') format('embedded-opentype'),
-		url('fonts/Netrunner.woff') format('woff'),
-		url('fonts/Netrunner.ttf') format('truetype'),
-		url('fonts/Netrunner.svg#Netrunner') format('svg');
+	font-family: 'netrunner';
+	src:url('fonts/netrunner.eot');
+	src:url('fonts/netrunner.eot?#iefix') format('embedded-opentype'),
+		url('fonts/netrunner.woff') format('woff'),
+		url('fonts/netrunner.ttf') format('truetype'),
+		url('fonts/netrunner.svg#netrunner') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 .icon {
-	font-family: 'Netrunner';
+	font-family: 'netrunner';
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
@@ -25,6 +25,9 @@
 
 .icon-credit:before {
 	content: "\e600";
+}
+.icon-link:before {
+	content: "\e601";
 }
 .icon-haas-bioroid:before {
 	content: "\e602";
@@ -76,7 +79,4 @@
 }
 .icon-criminal:before {
 	content: "\e612";
-}
-.icon-link:before {
-	content: "\e601";
 }
