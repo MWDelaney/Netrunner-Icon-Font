@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Netrunner';
-	src:url('fonts/Netrunner.eot');
-	src:url('fonts/Netrunner.eot?#iefix') format('embedded-opentype'),
-		url('fonts/Netrunner.woff') format('woff'),
-		url('fonts/Netrunner.ttf') format('truetype'),
-		url('fonts/Netrunner.svg#Netrunner') format('svg');
+	src:url('fonts/Netrunner.eot?4h07kk');
+	src:url('fonts/Netrunner.eot?#iefix4h07kk') format('embedded-opentype'),
+		url('fonts/Netrunner.woff?4h07kk') format('woff'),
+		url('fonts/Netrunner.ttf?4h07kk') format('truetype'),
+		url('fonts/Netrunner.svg?4h07kk#Netrunner') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -56,7 +56,7 @@
 .icon-2mu:before {
 	content: "\e60c";
 }
-.icon-asset:before {
+.icon-agenda:before {
 	content: "\e60d";
 }
 .icon-3mu:before {

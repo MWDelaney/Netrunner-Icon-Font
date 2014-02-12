@@ -19,7 +19,9 @@
 				"code": 58882,
 				"name": "haas-bioroid",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"iconIdx": 13
 		},
 		{
 			"icon": {
@@ -39,7 +41,9 @@
 				"code": 58883,
 				"name": "shaper",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"iconIdx": 10
 		},
 		{
 			"icon": {
@@ -56,11 +60,13 @@
 			"properties": {
 				"id": 14,
 				"order": 3,
-				"prevSize": 32,
+				"prevSize": 72,
 				"code": 58884,
 				"name": "subroutine",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"iconIdx": 7
 		},
 		{
 			"icon": {
@@ -76,11 +82,13 @@
 			"properties": {
 				"id": 3,
 				"order": 4,
-				"prevSize": 32,
+				"prevSize": 72,
 				"code": 58885,
 				"name": "anarch",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"iconIdx": 11
 		},
 		{
 			"icon": {
@@ -97,11 +105,13 @@
 			"properties": {
 				"id": 15,
 				"order": 5,
-				"prevSize": 32,
+				"prevSize": 72,
 				"code": 58886,
 				"name": "trash",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"iconIdx": 4
 		},
 		{
 			"icon": {
@@ -117,11 +127,13 @@
 			"properties": {
 				"id": 4,
 				"order": 6,
-				"prevSize": 32,
+				"prevSize": 72,
 				"code": 58887,
 				"name": "weyland-consortium",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"iconIdx": 14
 		},
 		{
 			"icon": {
@@ -138,11 +150,13 @@
 			"properties": {
 				"id": 16,
 				"order": 7,
-				"prevSize": 32,
+				"prevSize": 72,
 				"code": 58888,
 				"name": "recurring-credit",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"iconIdx": 1
 		},
 		{
 			"icon": {
@@ -159,11 +173,13 @@
 			"properties": {
 				"id": 5,
 				"order": 8,
-				"prevSize": 32,
+				"prevSize": 72,
 				"code": 58889,
 				"name": "jinteki",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"iconIdx": 15
 		},
 		{
 			"icon": {
@@ -180,11 +196,13 @@
 			"properties": {
 				"id": 17,
 				"order": 9,
-				"prevSize": 32,
+				"prevSize": 72,
 				"code": 58890,
 				"name": "1mu",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"iconIdx": 6
 		},
 		{
 			"icon": {
@@ -200,11 +218,13 @@
 			"properties": {
 				"id": 6,
 				"order": 10,
-				"prevSize": 32,
+				"prevSize": 72,
 				"code": 58891,
 				"name": "nbn",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"iconIdx": 16
 		},
 		{
 			"icon": {
@@ -221,11 +241,13 @@
 			"properties": {
 				"id": 18,
 				"order": 11,
-				"prevSize": 32,
+				"prevSize": 72,
 				"code": 58892,
 				"name": "2mu",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"iconIdx": 9
 		},
 		{
 			"icon": {
@@ -241,11 +263,13 @@
 			"properties": {
 				"id": 7,
 				"order": 12,
-				"prevSize": 32,
+				"prevSize": 72,
 				"code": 58893,
-				"name": "asset",
+				"name": "agenda",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"iconIdx": 17
 		},
 		{
 			"icon": {
@@ -262,11 +286,13 @@
 			"properties": {
 				"id": 19,
 				"order": 13,
-				"prevSize": 32,
+				"prevSize": 72,
 				"code": 58894,
 				"name": "3mu",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"iconIdx": 8
 		},
 		{
 			"icon": {
@@ -282,11 +308,13 @@
 			"properties": {
 				"id": 9,
 				"order": 14,
-				"prevSize": 32,
+				"prevSize": 72,
 				"code": 58895,
 				"name": "rez",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"iconIdx": 18
 		},
 		{
 			"icon": {
@@ -303,11 +331,13 @@
 			"properties": {
 				"id": 10,
 				"order": 15,
-				"prevSize": 32,
+				"prevSize": 72,
 				"code": 58896,
 				"name": "mu",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"iconIdx": 5
 		},
 		{
 			"icon": {
@@ -324,11 +354,13 @@
 			"properties": {
 				"id": 11,
 				"order": 16,
-				"prevSize": 32,
+				"prevSize": 72,
 				"code": 58897,
 				"name": "click",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"iconIdx": 2
 		},
 		{
 			"icon": {
@@ -345,11 +377,13 @@
 			"properties": {
 				"id": 0,
 				"order": 17,
-				"prevSize": 96,
+				"prevSize": 72,
 				"code": 58898,
 				"name": "criminal",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"iconIdx": 12
 		},
 		{
 			"icon": {
@@ -366,11 +400,13 @@
 			"properties": {
 				"id": 12,
 				"order": 18,
-				"prevSize": 24,
+				"prevSize": 72,
 				"code": 58881,
 				"name": "link",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"iconIdx": 3
 		},
 		{
 			"icon": {
@@ -387,11 +423,13 @@
 			"properties": {
 				"id": 13,
 				"order": 19,
-				"prevSize": 24,
+				"prevSize": 72,
 				"code": 58880,
 				"name": "credit",
 				"ligatures": ""
-			}
+			},
+			"setIdx": 0,
+			"iconIdx": 0
 		}
 	],
 	"height": 1024,
