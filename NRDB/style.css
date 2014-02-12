@@ -1,0 +1,58 @@
+@font-face {
+	font-family: 'NRDB';
+	src:url('fonts/NRDB.eot?-zjbk8');
+	src:url('fonts/NRDB.eot?#iefix-zjbk8') format('embedded-opentype'),
+		url('fonts/NRDB.woff?-zjbk8') format('woff'),
+		url('fonts/NRDB.ttf?-zjbk8') format('truetype'),
+		url('fonts/NRDB.svg?-zjbk8#NRDB') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="nrdb-"], [class*=" nrdb-"] {
+	font-family: 'NRDB';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.nrdb-ice:before {
+	content: "\e001";
+}
+.nrdb-hardware:before {
+	content: "\e002";
+}
+.nrdb-action:before {
+	content: "\e003";
+}
+.nrdb-hardware-alt:before {
+	content: "\e006";
+}
+.nrdb-asset-alt:before {
+	content: "\e007";
+}
+.nrdb-asset:before {
+	content: "\e008";
+}
+.nrdb-upgrade:before {
+	content: "\e004";
+}
+.nrdb-resource:before {
+	content: "\e000";
+}
+.nrdb-program:before {
+	content: "\e600";
+}
+.nrdb-identity:before {
+	content: "\e601";
+}
+.nrdb-agenda:before {
+	content: "\e602";
+}
