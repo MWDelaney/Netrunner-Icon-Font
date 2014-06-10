@@ -9,7 +9,8 @@
 	font-style: normal;
 }
 
-.icon {
+.icon,
+.icon-bg:before {
 	font-family: 'Netrunner';
 	speak: none;
 	font-style: normal;
