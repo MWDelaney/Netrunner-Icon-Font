@@ -30,7 +30,7 @@
 	text-align: center;
 	display: block;
 	position: absolute;
-	top: 50%;
+	top: 40%;
 	left: 0;
 	opacity: 0.2;
 }
@@ -91,4 +91,27 @@
 }
 .icon-credit:before {
 	content: "\e600";
+}
+
+/* Colors */
+.icon-haas-bioroid:before {
+	color:blueviolet !important;
+}
+.icon-shaper:before {
+	color:limegreen !important;
+}
+.icon-anarch:before {
+	color:orangered !important;
+}
+.icon-weyland-consortium:before {
+	color:darkgreen !important;
+}
+.icon-jinteki:before {
+	color:crimson !important;
+}
+.icon-nbn:before {
+	color:darkorange !important;
+}
+.icon-criminal:before {
+	color:royalblue !important;
 }
