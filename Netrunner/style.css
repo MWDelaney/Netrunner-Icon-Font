@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Netrunner';
-	src:url('fonts/Netrunner.eot?4h07kk');
-	src:url('fonts/Netrunner.eot?#iefix4h07kk') format('embedded-opentype'),
-		url('fonts/Netrunner.woff?4h07kk') format('woff'),
-		url('fonts/Netrunner.ttf?4h07kk') format('truetype'),
-		url('fonts/Netrunner.svg?4h07kk#Netrunner') format('svg');
+	src:url('fonts/netrunner.eot?4h07kk');
+	src:url('fonts/netrunner.eot?#iefix4h07kk') format('embedded-opentype'),
+		url('fonts/netrunner.woff?4h07kk') format('woff'),
+		url('fonts/netrunner.ttf?4h07kk') format('truetype'),
+		url('fonts/netrunner.svg?4h07kk#Netrunner') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -30,15 +30,19 @@
 	text-align: center;
 	display: block;
 	position: absolute;
-	top: 40%;
+	line-height:4em;
 	left: 0;
 	opacity: 0.2;
+    z-index: 0;
 }
 
 .icon-haas-bioroid:before {
 	content: "\e602";
 }
 .icon-shaper:before {
+	content: "\e613";
+}
+.icon-shaper-smooth:before {
 	content: "\e603";
 }
 .icon-subroutine:before {
