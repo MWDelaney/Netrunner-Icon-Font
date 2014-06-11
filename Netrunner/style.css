@@ -1,16 +1,15 @@
 @font-face {
 	font-family: 'Netrunner';
-	src:url('fonts/netrunner.eot?4h07kk');
-	src:url('fonts/netrunner.eot?#iefix4h07kk') format('embedded-opentype'),
-		url('fonts/netrunner.woff?4h07kk') format('woff'),
-		url('fonts/netrunner.ttf?4h07kk') format('truetype'),
-		url('fonts/netrunner.svg?4h07kk#Netrunner') format('svg');
+	src:url('fonts/Netrunner.eot?-3ydwec');
+	src:url('fonts/Netrunner.eot?#iefix-3ydwec') format('embedded-opentype'),
+		url('fonts/Netrunner.woff?-3ydwec') format('woff'),
+		url('fonts/Netrunner.ttf?-3ydwec') format('truetype'),
+		url('fonts/Netrunner.svg?-3ydwec#Netrunner') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
-.icon,
-.icon-bg:before {
+.icon {
 	font-family: 'Netrunner';
 	speak: none;
 	font-style: normal;
@@ -23,101 +22,79 @@
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
-.icon-bg:before {
-	width: 100%;
-	height: 100%;
-	font-size: 5em;
-	text-align: center;
-	display: block;
-	position: absolute;
-	line-height:4em;
-	left: 0;
-	opacity: 0.2;
-    z-index: 0;
-}
 
-.icon-haas-bioroid:before {
-	content: "\e602";
-}
-.icon-shaper:before {
+.icon-Shaper-smooth:before {
 	content: "\e613";
 }
-.icon-shaper-smooth:before {
+.icon-Shaper:before {
 	content: "\e603";
 }
-.icon-subroutine:before {
-	content: "\e604";
+.icon-Honor-and-Profit:before {
+	content: "\e614";
 }
-.icon-anarch:before {
-	content: "\e605";
+.icon-Spin-Cycle:before {
+	content: "\e615";
 }
-.icon-trash:before {
-	content: "\e606";
+.icon-Genesis-Cycle:before {
+	content: "\e616";
 }
-.icon-weyland-consortium:before {
-	content: "\e607";
+.icon-Creation-and-Control:before {
+	content: "\e617";
 }
-.icon-recurring-credit:before {
-	content: "\e608";
-}
-.icon-jinteki:before {
-	content: "\e609";
-}
-.icon-1mu:before {
-	content: "\e60a";
-}
-.icon-nbn:before {
-	content: "\e60b";
-}
-.icon-2mu:before {
-	content: "\e60c";
-}
-.icon-agenda:before {
-	content: "\e60d";
-}
-.icon-3mu:before {
-	content: "\e60e";
-}
-.icon-rez:before {
-	content: "\e60f";
-}
-.icon-mu:before {
-	content: "\e610";
-}
-.icon-click:before {
-	content: "\e611";
-}
-.icon-criminal:before {
-	content: "\e612";
-}
-.icon-link:before {
-	content: "\e601";
+.icon-Core-Set:before {
+	content: "\e618";
 }
 .icon-credit:before {
 	content: "\e600";
 }
-
-/* Colors */
-/*
-.icon-haas-bioroid:before {
-	color:blueviolet !important;
+.icon-recurring-credit:before {
+	content: "\e608";
 }
-.icon-shaper:before {
-	color:limegreen !important;
+.icon-click:before {
+	content: "\e611";
+}
+.icon-link:before {
+	content: "\e601";
+}
+.icon-trash:before {
+	content: "\e606";
+}
+.icon-mu:before {
+	content: "\e610";
+}
+.icon-1mu:before {
+	content: "\e60a";
+}
+.icon-subroutine:before {
+	content: "\e604";
+}
+.icon-3mu:before {
+	content: "\e60e";
+}
+.icon-2mu:before {
+	content: "\e60c";
 }
 .icon-anarch:before {
-	color:orangered !important;
-}
-.icon-weyland-consortium:before {
-	color:darkgreen !important;
-}
-.icon-jinteki:before {
-	color:crimson !important;
-}
-.icon-nbn:before {
-	color:darkorange !important;
+	content: "\e605";
 }
 .icon-criminal:before {
-	color:royalblue !important;
+	content: "\e612";
 }
-*/
+.icon-haas-bioroid:before {
+	content: "\e602";
+}
+.icon-weyland-consortium:before {
+	content: "\e607";
+}
+.icon-jinteki:before {
+	content: "\e609";
+}
+.icon-nbn:before {
+	content: "\e60b";
+}
+.icon-agenda:before {
+	content: "\e60d";
+}
+.icon-rez:before {
+	content: "\e60f";
+}
