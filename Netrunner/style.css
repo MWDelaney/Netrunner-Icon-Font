@@ -1,16 +1,16 @@
 @font-face {
-	font-family: 'Netrunner';
-	src:url('fonts/Netrunner.eot?-fuq2l8');
-	src:url('fonts/Netrunner.eot?#iefix-fuq2l8') format('embedded-opentype'),
-		url('fonts/Netrunner.woff?-fuq2l8') format('woff'),
-		url('fonts/Netrunner.ttf?-fuq2l8') format('truetype'),
-		url('fonts/Netrunner.svg?-fuq2l8#Netrunner') format('svg');
+	font-family: 'netrunner';
+	src:url('fonts/netrunner.eot?h5uykn');
+	src:url('fonts/netrunner.eot?#iefixh5uykn') format('embedded-opentype'),
+		url('fonts/netrunner.woff?h5uykn') format('woff'),
+		url('fonts/netrunner.ttf?h5uykn') format('truetype'),
+		url('fonts/netrunner.svg?h5uykn#netrunner') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
-.icon {
-	font-family: 'Netrunner';
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'netrunner';
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
@@ -23,81 +23,123 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.icon-Shaper-smooth:before {
+.icon-shaper-smooth:before {
 	content: "\e613";
 }
-.icon-Shaper:before {
+
+.icon-shaper:before {
 	content: "\e603";
 }
-.icon-Honor-and-Profit:before {
-	content: "\e614";
-}
-.icon-Spin-Cycle:before {
-	content: "\e615";
-}
-.icon-Genesis-Cycle:before {
-	content: "\e616";
-}
-.icon-Creation-and-Control:before {
-	content: "\e617";
-}
-.icon-Core-Set:before {
-	content: "\e618";
-}
+
 .icon-credit:before {
 	content: "\e600";
 }
+
 .icon-recurring-credit:before {
 	content: "\e608";
 }
+
 .icon-click:before {
 	content: "\e611";
 }
+
 .icon-link:before {
 	content: "\e601";
 }
+
+.icon-link-half-bottom:before {
+	content: "\e61b";
+}
+
+.icon-link-half-top:before {
+	content: "\e61c";
+}
+
 .icon-trash:before {
 	content: "\e606";
 }
+
 .icon-mu:before {
 	content: "\e610";
 }
+
 .icon-1mu:before {
 	content: "\e60a";
 }
-.icon-subroutine:before {
-	content: "\e604";
-}
-.icon-3mu:before {
-	content: "\e60e";
-}
+
 .icon-2mu:before {
 	content: "\e60c";
 }
+
+.icon-3mu:before {
+	content: "\e60e";
+}
+
+.icon-subroutine:before {
+	content: "\e604";
+}
+
 .icon-anarch:before {
 	content: "\e605";
 }
+
 .icon-criminal:before {
 	content: "\e612";
 }
+
 .icon-haas-bioroid:before {
 	content: "\e602";
 }
+
 .icon-weyland-consortium:before {
 	content: "\e607";
 }
+
 .icon-jinteki-simple:before {
 	content: "\e005";
 }
+
 .icon-jinteki:before {
 	content: "\e609";
 }
+
 .icon-nbn:before {
 	content: "\e60b";
 }
+
 .icon-agenda:before {
 	content: "\e60d";
 }
+
 .icon-rez:before {
 	content: "\e60f";
 }
+
+.icon-Core-Set:before {
+	content: "\e618";
+}
+
+.icon-genesis-cycle:before {
+	content: "\e616";
+}
+
+.icon-spin-cycle:before {
+	content: "\e615";
+}
+
+.icon-creation-and-control:before {
+	content: "\e617";
+}
+
+.icon-honor-and-profit:before {
+	content: "\e614";
+}
+
+.icon-lunar-cycle:before {
+	content: "\e619";
+}
+
+.icon-order-and-chaos:before {
+	content: "\e61a";
+}
+
